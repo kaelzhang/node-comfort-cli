@@ -24,5 +24,9 @@
   "devDependencies": {
     "mocha": "*",
     "chai": "*"
+  },
+  "dependencies": {
+    "inquirer": "^0.9.0",
+    "scaffold-generator": "^1.0.7"
   }
 }
